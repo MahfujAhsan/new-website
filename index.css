@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+ul li {
+    color: red;
+}
+img {
+    width: 250px;
+}
